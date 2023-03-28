@@ -1,0 +1,247 @@
+id,order_id,product_id,add_to_cart_order,reordered,product_name,aisle_id,department_id,department,user_id,order_time
+24,623,33120,1,1,Organic Egg Whites,86,16,dairy eggs,37804,2015-01-04 12:00:00
+25,623,40706,3,1,Organic Grape Tomatoes,123,4,produce,37804,2015-01-04 12:00:00
+26,623,38777,5,1,Organic Green Seedless Grapes,123,4,produce,37804,2015-01-04 12:00:00
+27,623,34126,9,1,Organic Italian Parsley Bunch,16,4,produce,37804,2015-01-04 12:00:00
+28,623,19678,4,1,Organic Russet Potato,83,4,produce,37804,2015-01-04 12:00:00
+29,623,10749,11,1,Organic Red Bell Pepper,83,4,produce,37804,2015-01-04 12:00:00
+30,623,27521,2,1,Organic Lacinato (Dinosaur) Kale,83,4,produce,37804,2015-01-04 12:00:00
+31,623,4562,6,1,English Seedless Cucumber,83,4,produce,37804,2015-01-04 12:00:00
+32,623,47788,7,1,Honeydew Melon,24,4,produce,37804,2015-01-04 12:00:00
+33,623,14575,8,1,Organic Cello Lettuce,83,4,produce,37804,2015-01-04 12:00:00
+34,623,32052,10,1,Organic Brown Rice Cake Salt-Free,78,19,snacks,37804,2015-01-04 12:00:00
+35,726,33120,3,1,Organic Egg Whites,86,16,dairy eggs,57362,2015-01-08 17:00:00
+36,726,32655,5,1,Organic Large Grade AA Brown Eggs,86,16,dairy eggs,57362,2015-01-08 17:00:00
+37,726,17794,4,1,Carrots,83,4,produce,57362,2015-01-08 17:00:00
+38,726,31915,2,1,Organic Red Delicious Apple,24,4,produce,57362,2015-01-08 17:00:00
+39,726,25181,6,1,Fragrance Free Automatic Dishwasher Tablets,74,17,household,57362,2015-01-08 17:00:00
+40,726,46737,7,1,2x Ultra Liquid Laundry Detergent,75,17,household,57362,2015-01-08 17:00:00
+41,726,24489,1,1,Organic Whole Strawberries,116,1,frozen,57362,2015-01-08 17:00:00
+183,10084,33120,10,1,Organic Egg Whites,86,16,dairy eggs,6851,2015-01-12 22:00:00
+184,10084,432,11,1,Vanilla Almond Breeze Almond Milk,91,16,dairy eggs,6851,2015-01-12 22:00:00
+185,10084,21903,8,1,Organic Baby Spinach,123,4,produce,6851,2015-01-12 22:00:00
+186,10084,13176,7,1,Bag of Organic Bananas,24,4,produce,6851,2015-01-12 22:00:00
+187,10084,47766,6,1,Organic Avocado,24,4,produce,6851,2015-01-12 22:00:00
+188,10084,21137,14,0,Organic Strawberries,24,4,produce,6851,2015-01-12 22:00:00
+189,10084,35547,9,1,Organic Baby Kale,83,4,produce,6851,2015-01-12 22:00:00
+190,10084,39275,13,1,Organic Blueberries,123,4,produce,6851,2015-01-12 22:00:00
+191,10084,5876,5,1,Organic Lemon,24,4,produce,6851,2015-01-12 22:00:00
+192,10084,19057,12,1,Organic Large Extra Fancy Fuji Apple,24,4,produce,6851,2015-01-12 22:00:00
+193,10084,36702,4,1,Active Electrolyte Enhanced Drink Tabs 10 Servings Tri-Berry,47,11,personal care,6851,2015-01-12 22:00:00
+194,10084,4352,1,1,Beverage Tab Wild Berry,47,11,personal care,6851,2015-01-12 22:00:00
+195,10084,40589,3,1,Lemonlime Electrolyte Tabs,90,7,beverages,6851,2015-01-12 22:00:00
+196,10084,20574,2,1,Roasted Turkey,96,20,deli,6851,2015-01-12 22:00:00
+318,13368,33120,4,1,Organic Egg Whites,86,16,dairy eggs,37804,2015-01-07 18:00:00
+319,13368,39275,1,1,Organic Blueberries,123,4,produce,37804,2015-01-07 18:00:00
+320,13368,40706,8,1,Organic Grape Tomatoes,123,4,produce,37804,2015-01-07 18:00:00
+321,13368,6873,7,1,Organic Iceberg Lettuce,83,4,produce,37804,2015-01-07 18:00:00
+322,13368,10749,5,1,Organic Red Bell Pepper,83,4,produce,37804,2015-01-07 18:00:00
+323,13368,27521,6,1,Organic Lacinato (Dinosaur) Kale,83,4,produce,37804,2015-01-07 18:00:00
+324,13368,4562,9,1,English Seedless Cucumber,83,4,produce,37804,2015-01-07 18:00:00
+325,13368,10974,3,1,Gluten Free Rice & Shine Hot Cereal,130,14,breakfast,37804,2015-01-07 18:00:00
+326,13368,24489,2,1,Organic Whole Strawberries,116,1,frozen,37804,2015-01-07 18:00:00
+391,18214,33120,1,1,Organic Egg Whites,86,16,dairy eggs,37804,2015-01-30 19:00:00
+392,18214,30391,2,1,Organic Cucumber,83,4,produce,37804,2015-01-30 19:00:00
+393,18214,6873,6,0,Organic Iceberg Lettuce,83,4,produce,37804,2015-01-30 19:00:00
+394,18214,7500,4,1,Organic Vanilla Extract,17,13,pantry,37804,2015-01-30 19:00:00
+395,18214,39562,5,0,"Baking Soda Toothpowder, Dazzling Mint",20,11,personal care,37804,2015-01-30 19:00:00
+396,18214,10974,3,1,Gluten Free Rice & Shine Hot Cereal,130,14,breakfast,37804,2015-01-30 19:00:00
+641,26249,33120,5,1,Organic Egg Whites,86,16,dairy eggs,8167,2015-01-08 11:00:00
+642,26249,20842,3,1,Total 0% Greek Yogurt,120,16,dairy eggs,8167,2015-01-08 11:00:00
+643,26249,21903,6,1,Organic Baby Spinach,123,4,produce,8167,2015-01-08 11:00:00
+644,26249,21137,7,1,Organic Strawberries,24,4,produce,8167,2015-01-08 11:00:00
+645,26249,49683,1,1,Cucumber Kirby,83,4,produce,8167,2015-01-08 11:00:00
+646,26249,8277,4,1,Apple Honeycrisp Organic,24,4,produce,8167,2015-01-08 11:00:00
+647,26249,45007,2,1,Organic Zucchini,83,4,produce,8167,2015-01-08 11:00:00
+648,26249,10343,8,1,Teriyaki Chicken Bowl,38,1,frozen,8167,2015-01-08 11:00:00
+649,26249,19174,9,1,Chicken Enchilada Bowl,38,1,frozen,8167,2015-01-08 11:00:00
+1078,41962,33120,5,1,Organic Egg Whites,86,16,dairy eggs,57362,2015-01-23 17:00:00
+1079,41962,12384,11,1,Organic Lactose Free 1% Lowfat Milk,91,16,dairy eggs,57362,2015-01-23 17:00:00
+1080,41962,23955,23,0,Vanilla Soy Milk,91,16,dairy eggs,57362,2015-01-23 17:00:00
+1081,41962,27086,9,1,Half & Half,53,16,dairy eggs,57362,2015-01-23 17:00:00
+1082,41962,46820,10,1,Vanilla Pure Almond Milk,91,16,dairy eggs,57362,2015-01-23 17:00:00
+1083,41962,21903,21,0,Organic Baby Spinach,123,4,produce,57362,2015-01-23 17:00:00
+1084,41962,13176,1,1,Bag of Organic Bananas,24,4,produce,57362,2015-01-23 17:00:00
+1085,41962,31915,2,1,Organic Red Delicious Apple,24,4,produce,57362,2015-01-23 17:00:00
+1086,41962,45007,20,0,Organic Zucchini,83,4,produce,57362,2015-01-23 17:00:00
+1087,41962,17284,14,1,Organic Sugar Snap Peas,83,4,produce,57362,2015-01-23 17:00:00
+1088,41962,41220,18,1,Organic Romaine Lettuce,83,4,produce,57362,2015-01-23 17:00:00
+1089,41962,3896,4,1,Organic Honey Sweet Whole Wheat Bread,112,3,bakery,57362,2015-01-23 17:00:00
+1090,41962,48415,7,1,Big California Sourdough Bread,112,3,bakery,57362,2015-01-23 17:00:00
+1091,41962,46011,22,0,Honest Sweet Orange Vanilla Detangling Conditioner,22,11,personal care,57362,2015-01-23 17:00:00
+1092,41962,25069,15,1,Organic Aged Earl Grey Tea,94,7,beverages,57362,2015-01-23 17:00:00
+1093,41962,45635,17,1,Blueberry B Fruit Smoothie,31,7,beverages,57362,2015-01-23 17:00:00
+1094,41962,7677,16,1,Strawberry Banana Flavored 4 Juice Smoothie Blend,98,7,beverages,57362,2015-01-23 17:00:00
+1095,41962,5764,12,1,Organic SprouTofu Teriyaki Tofu Cutlets,14,20,deli,57362,2015-01-23 17:00:00
+1096,41962,1103,3,1,Hickory Smoked Turkey Breast,96,20,deli,57362,2015-01-23 17:00:00
+1097,41962,30290,8,1,100% Recycled Bath Tissue Rolls,54,17,household,57362,2015-01-23 17:00:00
+1098,41962,47008,13,1,Sliced Water Chestnuts,66,6,international,57362,2015-01-23 17:00:00
+1099,41962,24489,6,1,Organic Whole Strawberries,116,1,frozen,57362,2015-01-23 17:00:00
+1100,41962,45013,19,0,Apple Sauce,99,15,canned goods,57362,2015-01-23 17:00:00
+1211,45253,33120,4,1,Organic Egg Whites,86,16,dairy eggs,8167,2015-01-16 21:00:00
+1212,45253,20842,1,1,Total 0% Greek Yogurt,120,16,dairy eggs,8167,2015-01-16 21:00:00
+1213,45253,8277,2,1,Apple Honeycrisp Organic,24,4,produce,8167,2015-01-16 21:00:00
+1214,45253,21077,3,1,Cara Cara Navel Orange,24,4,produce,8167,2015-01-16 21:00:00
+1215,45253,34565,5,1,Peanut Butter Whole Grain Clusters,57,14,breakfast,8167,2015-01-16 21:00:00
+1216,45253,28682,8,0,Chocolate Peanut Butter Cup Gelato,37,1,frozen,8167,2015-01-16 21:00:00
+1217,45253,10343,6,1,Teriyaki Chicken Bowl,38,1,frozen,8167,2015-01-16 21:00:00
+1218,45253,19174,7,1,Chicken Enchilada Bowl,38,1,frozen,8167,2015-01-16 21:00:00
+1361,50496,33120,2,1,Organic Egg Whites,86,16,dairy eggs,32620,2015-01-31 13:00:00
+1362,50496,24838,16,1,Unsweetened Almondmilk,91,16,dairy eggs,32620,2015-01-31 13:00:00
+1363,50496,13176,1,1,Bag of Organic Bananas,24,4,produce,32620,2015-01-31 13:00:00
+1364,50496,8518,23,1,Organic Red Onion,83,4,produce,32620,2015-01-31 13:00:00
+1365,50496,40706,15,1,Organic Grape Tomatoes,123,4,produce,32620,2015-01-31 13:00:00
+1366,50496,27104,3,1,Fresh Cauliflower,83,4,produce,32620,2015-01-31 13:00:00
+1367,50496,44359,21,0,Organic Small Bunch Celery,83,4,produce,32620,2015-01-31 13:00:00
+1368,50496,47734,24,0,Organic Green Cabbage,83,4,produce,32620,2015-01-31 13:00:00
+1369,50496,40723,20,1,Organic Cripps Pink Apples,24,4,produce,32620,2015-01-31 13:00:00
+1370,50496,41220,22,0,Organic Romaine Lettuce,83,4,produce,32620,2015-01-31 13:00:00
+1371,50496,10913,19,0,Gluten Free Rice Almond Bread,112,3,bakery,32620,2015-01-31 13:00:00
+1372,50496,2996,13,0,Honeysuckle Hand Soap,25,11,personal care,32620,2015-01-31 13:00:00
+1373,50496,34137,18,0,Chocolate Sea Salt,3,19,snacks,32620,2015-01-31 13:00:00
+1374,50496,9515,11,1,Natural Classic Pork Breakfast Sausage,52,1,frozen,32620,2015-01-31 13:00:00
+1375,50496,436,8,1,Petite Brussels Sprouts,116,1,frozen,32620,2015-01-31 13:00:00
+1376,50496,31263,9,1,Breaded Fish Sticks,34,1,frozen,32620,2015-01-31 13:00:00
+1377,50496,18677,14,0,"Minis, Coconut Milk, Non-Dairy Frozen Dessert, no sugar added Vanilla Bar",37,1,frozen,32620,2015-01-31 13:00:00
+1378,50496,7461,6,1,Pinto Beans No Salt Added,59,15,canned goods,32620,2015-01-31 13:00:00
+1379,50496,28849,5,1,No Salt Added Black Beans,59,15,canned goods,32620,2015-01-31 13:00:00
+1380,50496,22395,7,1,Tomato Sauce,81,15,canned goods,32620,2015-01-31 13:00:00
+1381,50496,20670,12,1,Organic Lentil Vegetable Soup,69,15,canned goods,32620,2015-01-31 13:00:00
+1382,50496,5024,10,1,Dark Red Kidney Beans No Salt Added,59,15,canned goods,32620,2015-01-31 13:00:00
+1383,50496,16131,4,1,"Organic Chicken Noodle Soup, Reduced Sodium",69,15,canned goods,32620,2015-01-31 13:00:00
+1384,50496,18542,17,0,Protein Bar Mint Chocolate,100,21,missing,32620,2015-01-31 13:00:00
+1637,60837,33120,5,1,Organic Egg Whites,86,16,dairy eggs,37804,2015-02-01 16:00:00
+1638,60837,13176,2,1,Bag of Organic Bananas,24,4,produce,37804,2015-02-01 16:00:00
+1639,60837,40706,3,1,Organic Grape Tomatoes,123,4,produce,37804,2015-02-01 16:00:00
+1640,60837,38777,7,1,Organic Green Seedless Grapes,123,4,produce,37804,2015-02-01 16:00:00
+1641,60837,12496,4,1,Radish,83,4,produce,37804,2015-02-01 16:00:00
+1642,60837,27521,6,1,Organic Lacinato (Dinosaur) Kale,83,4,produce,37804,2015-02-01 16:00:00
+1643,60837,43768,1,1,Organic Bell Pepper,83,4,produce,37804,2015-02-01 16:00:00
+2453,90352,33120,2,1,Organic Egg Whites,86,16,dairy eggs,37804,2015-02-03 19:00:00
+2454,90352,13176,1,1,Bag of Organic Bananas,24,4,produce,37804,2015-02-03 19:00:00
+2455,90352,42265,5,1,Organic Baby Carrots,123,4,produce,37804,2015-02-03 19:00:00
+2456,90352,40706,3,1,Organic Grape Tomatoes,123,4,produce,37804,2015-02-03 19:00:00
+2457,90352,19678,7,1,Organic Russet Potato,83,4,produce,37804,2015-02-03 19:00:00
+2458,90352,10749,10,1,Organic Red Bell Pepper,83,4,produce,37804,2015-02-03 19:00:00
+2459,90352,47759,6,1,Mandarin Oranges,24,4,produce,37804,2015-02-03 19:00:00
+2460,90352,11526,8,1,Napa Cabbage,83,4,produce,37804,2015-02-03 19:00:00
+2461,90352,8021,4,1,100% Recycled Paper Towels,54,17,household,37804,2015-02-03 19:00:00
+2462,90352,20995,9,1,Organic Broccoli Florets,116,1,frozen,37804,2015-02-03 19:00:00
+2471,92051,33120,3,1,Organic Egg Whites,86,16,dairy eggs,8167,2015-01-21 09:00:00
+2472,92051,19348,9,1,Fat Free Milk,84,16,dairy eggs,8167,2015-01-21 09:00:00
+2473,92051,20842,1,1,Total 0% Greek Yogurt,120,16,dairy eggs,8167,2015-01-21 09:00:00
+2474,92051,49683,6,1,Cucumber Kirby,83,4,produce,8167,2015-01-21 09:00:00
+2475,92051,8277,4,1,Apple Honeycrisp Organic,24,4,produce,8167,2015-01-21 09:00:00
+2476,92051,21077,2,1,Cara Cara Navel Orange,24,4,produce,8167,2015-01-21 09:00:00
+2477,92051,15803,5,1,Organic Sweet Potato Puree,17,13,pantry,8167,2015-01-21 09:00:00
+2478,92051,13877,7,1,Smoked Salmon,15,12,meat seafood,8167,2015-01-21 09:00:00
+2479,92051,10343,8,1,Teriyaki Chicken Bowl,38,1,frozen,8167,2015-01-21 09:00:00
+2523,96076,33120,5,1,Organic Egg Whites,86,16,dairy eggs,6851,2015-02-07 19:00:00
+2524,96076,47144,4,0,Unsweetened Original Almond Breeze Almond Milk,91,16,dairy eggs,6851,2015-02-07 19:00:00
+2525,96076,25533,2,1,Vegan Chao Creamy Original Cheese Slices,21,16,dairy eggs,6851,2015-02-07 19:00:00
+2526,96076,35090,3,1,"Chao, Vegan, Coconut Herb, Slices",21,16,dairy eggs,6851,2015-02-07 19:00:00
+2527,96076,13176,11,1,Bag of Organic Bananas,24,4,produce,6851,2015-02-07 19:00:00
+2528,96076,35547,1,1,Organic Baby Kale,83,4,produce,6851,2015-02-07 19:00:00
+2529,96076,1360,7,1,Crunchy Peanut Butter,88,13,pantry,6851,2015-02-07 19:00:00
+2530,96076,18027,6,0,Ezekiel 4:9 Bread Organic Sprouted Whole Grain,112,3,bakery,6851,2015-02-07 19:00:00
+2531,96076,24810,9,0,Organic Lightly Salted Brown Rice Cakes,78,19,snacks,6851,2015-02-07 19:00:00
+2532,96076,42719,8,1,Natural Premium Coconut Water,98,7,beverages,6851,2015-02-07 19:00:00
+2533,96076,20574,10,0,Roasted Turkey,96,20,deli,6851,2015-02-07 19:00:00
+2646,102955,33120,7,1,Organic Egg Whites,86,16,dairy eggs,57362,2015-02-01 16:00:00
+2647,102955,651,14,1,Organic Salted Butter,36,16,dairy eggs,57362,2015-02-01 16:00:00
+2648,102955,13176,1,1,Bag of Organic Bananas,24,4,produce,57362,2015-02-01 16:00:00
+2649,102955,31915,4,1,Organic Red Delicious Apple,24,4,produce,57362,2015-02-01 16:00:00
+2650,102955,6860,12,1,Organic Balsamic Vinaigrette,89,13,pantry,57362,2015-02-01 16:00:00
+2651,102955,3896,3,1,Organic Honey Sweet Whole Wheat Bread,112,3,bakery,57362,2015-02-01 16:00:00
+2652,102955,48415,15,1,Big California Sourdough Bread,112,3,bakery,57362,2015-02-01 16:00:00
+2653,102955,36302,11,0,"Soap, Coconut Creme",25,11,personal care,57362,2015-02-01 16:00:00
+2654,102955,13605,9,1,Frosted berry Strawberry Toaster Pastries,48,14,breakfast,57362,2015-02-01 16:00:00
+2655,102955,25767,13,1,Organic Multi Grain Squares Cereal,121,14,breakfast,57362,2015-02-01 16:00:00
+2656,102955,23288,6,1,Distilled Water,115,7,beverages,57362,2015-02-01 16:00:00
+2657,102955,18873,10,1,Organic Earl Grey Black Tea 16 Count,94,7,beverages,57362,2015-02-01 16:00:00
+2658,102955,1103,2,1,Hickory Smoked Turkey Breast,96,20,deli,57362,2015-02-01 16:00:00
+2659,102955,30290,8,1,100% Recycled Bath Tissue Rolls,54,17,household,57362,2015-02-01 16:00:00
+2660,102955,24489,5,1,Organic Whole Strawberries,116,1,frozen,57362,2015-02-01 16:00:00
+3291,13331,33754,1,1,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,31606,2015-01-03 09:00:00
+3292,13331,18523,4,1,Total 2% All Natural Greek Strained Yogurt with Honey,120,16,dairy eggs,31606,2015-01-03 09:00:00
+3293,13331,30169,5,1,Total 2% All Natural Plain Greek Yogurt,120,16,dairy eggs,31606,2015-01-03 09:00:00
+3294,13331,4957,2,1,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120,16,dairy eggs,31606,2015-01-03 09:00:00
+3295,13331,33787,6,1,Total 2% Lowfat Greek Strained Yogurt with Peach,120,16,dairy eggs,31606,2015-01-03 09:00:00
+3296,13331,25340,7,1,Large Yellow Flesh Nectarine,24,4,produce,31606,2015-01-03 09:00:00
+3297,13331,30756,9,1,Mandarin Clementine  Bag,24,4,produce,31606,2015-01-03 09:00:00
+3298,13331,43442,8,1,Veggie Tray,123,4,produce,31606,2015-01-03 09:00:00
+3299,13331,48559,3,1,Synergy Organic Kombucha Gingerberry,31,7,beverages,31606,2015-01-03 09:00:00
+3555,16686,33754,4,1,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3556,16686,27845,10,1,Organic Whole Milk,84,16,dairy eggs,31606,2015-01-08 10:00:00
+3557,16686,39475,8,1,Total Greek Strained Yogurt,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3558,16686,18523,6,1,Total 2% All Natural Greek Strained Yogurt with Honey,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3559,16686,4957,1,1,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3560,16686,33787,5,1,Total 2% Lowfat Greek Strained Yogurt with Peach,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3561,16686,8061,7,1,Pineapple Yogurt 2%,120,16,dairy eggs,31606,2015-01-08 10:00:00
+3562,16686,28204,12,1,Organic Fuji Apple,24,4,produce,31606,2015-01-08 10:00:00
+3563,16686,37646,11,1,Organic Gala Apples,24,4,produce,31606,2015-01-08 10:00:00
+3564,16686,39877,2,1,Organic Granny Smith Apple,24,4,produce,31606,2015-01-08 10:00:00
+3565,16686,47759,3,1,Mandarin Oranges,24,4,produce,31606,2015-01-08 10:00:00
+3566,16686,31683,9,1,Original No Pulp 100% Florida Orange Juice,31,7,beverages,31606,2015-01-08 10:00:00
+4193,32918,33754,2,1,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,31606,2015-01-10 09:00:00
+4194,32918,30169,4,1,Total 2% All Natural Plain Greek Yogurt,120,16,dairy eggs,31606,2015-01-10 09:00:00
+4195,32918,4957,1,1,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120,16,dairy eggs,31606,2015-01-10 09:00:00
+4196,32918,33787,5,1,Total 2% Lowfat Greek Strained Yogurt with Peach,120,16,dairy eggs,31606,2015-01-10 09:00:00
+4197,32918,8061,9,1,Pineapple Yogurt 2%,120,16,dairy eggs,31606,2015-01-10 09:00:00
+4198,32918,19057,6,1,Organic Large Extra Fancy Fuji Apple,24,4,produce,31606,2015-01-10 09:00:00
+4199,32918,25340,8,1,Large Yellow Flesh Nectarine,24,4,produce,31606,2015-01-10 09:00:00
+4200,32918,47759,7,1,Mandarin Oranges,24,4,produce,31606,2015-01-10 09:00:00
+4201,32918,48559,3,1,Synergy Organic Kombucha Gingerberry,31,7,beverages,31606,2015-01-10 09:00:00
+4202,32918,26620,11,0,Peach Pear Flavored Sparkling Water,115,7,beverages,31606,2015-01-10 09:00:00
+4203,32918,49520,10,0,Orange Sparkling Water,115,7,beverages,31606,2015-01-10 09:00:00
+4350,34537,33754,1,0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,19114,2015-01-01 13:00:00
+4351,34537,39475,9,0,Total Greek Strained Yogurt,120,16,dairy eggs,19114,2015-01-01 13:00:00
+4352,34537,30233,15,0,Organic Large Brown Grade AA Cage Free Eggs,86,16,dairy eggs,19114,2015-01-01 13:00:00
+4353,34537,4269,14,0,Mild Cheddar Cheese,21,16,dairy eggs,19114,2015-01-01 13:00:00
+4354,34537,21903,6,0,Organic Baby Spinach,123,4,produce,19114,2015-01-01 13:00:00
+4355,34537,13176,4,0,Bag of Organic Bananas,24,4,produce,19114,2015-01-01 13:00:00
+4356,34537,47209,3,0,Organic Hass Avocado,24,4,produce,19114,2015-01-01 13:00:00
+4357,34537,42265,11,0,Organic Baby Carrots,123,4,produce,19114,2015-01-01 13:00:00
+4358,34537,22825,10,0,Organic D'Anjou Pears,24,4,produce,19114,2015-01-01 13:00:00
+4359,34537,39275,7,0,Organic Blueberries,123,4,produce,19114,2015-01-01 13:00:00
+4360,34537,37646,16,0,Organic Gala Apples,24,4,produce,19114,2015-01-01 13:00:00
+4361,34537,8174,19,0,Organic Navel Orange,24,4,produce,19114,2015-01-01 13:00:00
+4362,34537,47042,20,0,Organic Red On the Vine Tomato,83,4,produce,19114,2015-01-01 13:00:00
+4363,34537,39040,21,0,Organic Sliced Crimini Mushrooms,123,4,produce,19114,2015-01-01 13:00:00
+4364,34537,18362,18,0,Organic Bread with 21 Whole Grains,112,3,bakery,19114,2015-01-01 13:00:00
+4365,34537,2855,2,0,Organic Good Seed Bread,112,3,bakery,19114,2015-01-01 13:00:00
+4366,34537,40063,17,0,Gluten Free Chocolate Chip Cookies,61,19,snacks,19114,2015-01-01 13:00:00
+4367,34537,20734,25,0,Organic Medjool Dates,117,19,snacks,19114,2015-01-01 13:00:00
+4368,34537,49174,12,0,Raincoast Crisps Cranberry And Hazelnut Crackers,78,19,snacks,19114,2015-01-01 13:00:00
+4369,34537,25670,5,0,High Pulp Orange Juice,31,7,beverages,19114,2015-01-01 13:00:00
+4370,34537,12686,22,0,Organic Jalapeno Cilantro Hummus,67,20,deli,19114,2015-01-01 13:00:00
+4371,34537,8230,8,0,100% Recycled Bathroom Tissue,54,17,household,19114,2015-01-01 13:00:00
+4372,34537,8638,24,0,Vanilla Milk Chocolate Almond Ice Cream Bars,37,1,frozen,19114,2015-01-01 13:00:00
+4373,34537,8436,23,0,Organic Waffles Flax Plus,52,1,frozen,19114,2015-01-01 13:00:00
+4374,34537,29195,13,0,Wild Sardines in Extra Virgin Olive Oil,95,15,canned goods,19114,2015-01-01 13:00:00
+4734,41684,33754,2,1,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,31606,2015-01-14 08:00:00
+4735,41684,4957,3,1,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120,16,dairy eggs,31606,2015-01-14 08:00:00
+4736,41684,33787,5,1,Total 2% Lowfat Greek Strained Yogurt with Peach,120,16,dairy eggs,31606,2015-01-14 08:00:00
+4737,41684,8061,4,1,Pineapple Yogurt 2%,120,16,dairy eggs,31606,2015-01-14 08:00:00
+4738,41684,6740,6,1,Organic Braeburn Apple,24,4,produce,31606,2015-01-14 08:00:00
+4739,41684,19057,7,1,Organic Large Extra Fancy Fuji Apple,24,4,produce,31606,2015-01-14 08:00:00
+4740,41684,44632,8,1,Sparkling Water Grapefruit,115,7,beverages,31606,2015-01-14 08:00:00
+4741,41684,48559,1,1,Synergy Organic Kombucha Gingerberry,31,7,beverages,31606,2015-01-14 08:00:00
+4784,41964,33754,3,1,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,dairy eggs,19114,2015-01-14 15:00:00
+4785,41964,1463,8,1,Organic Milk,84,16,dairy eggs,19114,2015-01-14 15:00:00
+4786,41964,32655,10,1,Organic Large Grade AA Brown Eggs,86,16,dairy eggs,19114,2015-01-14 15:00:00
+4787,41964,4269,9,1,Mild Cheddar Cheese,21,16,dairy eggs,19114,2015-01-14 15:00:00
+4788,41964,13176,5,1,Bag of Organic Bananas,24,4,produce,19114,2015-01-14 15:00:00
+4789,41964,27966,4,1,Organic Raspberries,123,4,produce,19114,2015-01-14 15:00:00
+4790,41964,47209,2,1,Organic Hass Avocado,24,4,produce,19114,2015-01-14 15:00:00
+4791,41964,21137,11,1,Organic Strawberries,24,4,produce,19114,2015-01-14 15:00:00
+4792,41964,48745,16,0,Globe Eggplant,83,4,produce,19114,2015-01-14 15:00:00
+4793,41964,42265,7,1,Organic Baby Carrots,123,4,produce,19114,2015-01-14 15:00:00
+4794,41964,41950,6,0,Organic Tomato Cluster,83,4,produce,19114,2015-01-14 15:00:00
+4795,41964,39275,18,1,Organic Blueberries,123,4,produce,19114,2015-01-14 15:00:00
+4796,41964,26940,17,0,Organic Large Green Asparagus,83,4,produce,19114,2015-01-14 15:00:00
+4797,41964,43154,1,1,Sparkling Mineral Water,115,7,beverages,19114,2015-01-14 15:00:00
+4798,41964,21051,13,1,Baba Ghannouge Eggplant Dip,67,20,deli,19114,2015-01-14 15:00:00
+4799,41964,4193,15,0,"Ravioli, Spinach & Cheese",12,9,dry goods pasta,19114,2015-01-14 15:00:00
+4800,41964,43908,14,0,Butternut Squash Ravioli,38,1,frozen,19114,2015-01-14 15:00:00
+4801,41964,4921,12,1,Organic Roasted Garlic Mushroom Lentil Soup,69,15,canned goods,19114,2015-01-14 15:00:00
